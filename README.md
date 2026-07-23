@@ -26,3 +26,12 @@ This assignment focused on predicting employee salaries based on their position 
 The main **difference between Linear Regression and Polynomial Regression** is that linear regression assumes a straight-line relationship, while polynomial regression introduces higher-degree terms to model curves. 
 
 **One major advantage of Polynomial Regression for this specific dataset** is its ability to accurately map the exponential-like growth of salaries at higher position levels.
+
+
+<img width="768" height="757" alt="image" src="https://github.com/user-attachments/assets/248a1fcd-37cc-4fe4-a65c-d1d61137e483" />
+<img width="910" height="186" alt="image" src="https://github.com/user-attachments/assets/1be00438-f612-45e5-a0cb-f907e6bbb6dc" />
+<img width="1311" height="773" alt="image" src="https://github.com/user-attachments/assets/f300103d-3222-4d70-b87a-423c229b2887" />
+
+
+
+
